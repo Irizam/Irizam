@@ -1,4 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1757606361/129333/obiwankenobi-jedi-mind-touch.gif?1757606361" width="30"/> Hello There</h1>
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1757606361/129333/obiwankenobi-jedi-mind-touch.gif?1757606361" width="30"/>
+  Hello There
+  <img src="https://emojis.slackmojis.com/emojis/images/1714742241/92486/pepe_lightsabers.gif?1714742241" width="30"/>
+</h1>
 <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> Welcome to my page! </br> I'm Irizam, a fullstack developer mainly focused on web applications.</p>
 <h3>Some of the things I work with</h3>
 <p>
@@ -36,3 +40,14 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<h3>never gonna give you up</h3>
+<p>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514496/4845/rickroll.gif?1643514496" width="40"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514230/1973/mario_luigi_dance.gif?1643514230" width="40"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1728190258/100332/bowserdanceq.gif?1728190258" width="40"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643515123/11420/donkey-kong-dance3.gif?1643515123" width="40"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5995/finn_dance.gif?1643514596" width="40"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643516377/24143/pumpkin_dance.gif?1643516377" width="40"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1681732168/65249/pug_dance_fast.gif?1681732168" width="40"/>
+</p>
+
